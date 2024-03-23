@@ -18,7 +18,8 @@ body{
     margin: 0px;
     width: 100vw;
     height: 100vh;
-    background-color: var(--ciemny-1);
+    /* background-color: var(--ciemny-1); */
+    background-color: #2196F3;
     overflow: hidden;
     display: flex;
     flex-wrap: wrap;
