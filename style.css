@@ -18,8 +18,7 @@ body{
     margin: 0px;
     width: 100vw;
     height: 100vh;
-    /* background-color: var(--ciemny-1); */
-    background-color: #2196F3;
+    background-color: var(--ciemny-1);
     overflow: hidden;
     display: flex;
     flex-wrap: wrap;
@@ -46,8 +45,7 @@ body{
     left: 4px;
     height: 54px;
     width: 54px;
-    /* background-color: rgb(8, 102, 255); */
-    background-color: rgb(218, 102, 255);
+    background-color: rgb(8, 102, 255);
     border-radius: 50%;
     z-index: 2;
     
